@@ -18,13 +18,8 @@ a.home_button {
 
 h3 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 15px;
-}
-
-.block h3 {
     color: white;
     background-color: #006400;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     padding: 6px;
 }
@@ -36,7 +31,7 @@ h3 {
     padding: 6px;
 }
 
-.text {
+.list {
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
